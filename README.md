@@ -5,7 +5,7 @@ This game is a simulation of drunken numbers wandering around a 2 dimentional bo
 
 To generate a game file, do something like this:
 
-python game_file_gen.py 20 20 0.3 1 1 > game_file_samp1
+python game_file_gen.py 10 10 0.3 1 1 > gameFile1
 
   Arg 1: height of board
   
@@ -18,13 +18,11 @@ python game_file_gen.py 20 20 0.3 1 1 > game_file_samp1
 
 And then to run the game, do something like this:
 
-python game.py game_file_samp1 10 .1
+python game.py gameFile1 0.1
 
   Arg 1: game file name
   
-  Arg 2: doesn't do anything. that's right - nothing.
-  
-  Arg 3: seconds between game iterations
+  Arg 2: seconds between game iterations
   
   
 Feel free to modify and make this cooler.
