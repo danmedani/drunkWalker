@@ -1,9 +1,7 @@
 drunkWalker
 ===========
 
-This game is a simulation of drunken numbers wandering around a 2 dimentional board. When these numbers run into each other, they combine and continue walking. The game ends when there's only 1 drunken number left.
-
-There's no strict winning or losing this game. You make your own rules. 
+This game is a simulation of drunken numbers wandering around a 2 dimentional board. When these numbers run into each other, they combine and continue walking. The game ends when there's only 1 drunken number left. There's no strict winning or losing this game. You make your own rules. 
 
 To generate a game file, do something like this:
 
